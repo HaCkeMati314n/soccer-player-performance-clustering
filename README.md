@@ -1,4 +1,4 @@
-# Soccer-Player-Performance Clustering
+# Soccer-Player Performance Clustering
 <i>(Deliver actionable match insights to coaching teams)</i>
 <br>
 <br>

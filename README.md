@@ -18,7 +18,7 @@ In this project, I aim to deliver some objectivity to the decision-making proces
 <i>
 
 * Python
-* Machine Learning: (K-Means Clustering Algorithm)
+* Unsupervised Machine Learning: (K-Means Clustering Algorithm)
 * Feature Engineering
 * Working with Different Data Files Formats: (CSV, XML, JSON)
 </i>

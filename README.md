@@ -10,4 +10,15 @@ In this project, I aim to deliver some objectivity to the decision-making proces
 <p align="center"><img src="https://github.com/HaCkeMati314n/soccer-player-performance-clustering/assets/94754426/48c5162d-4da4-4da1-a65a-42fd0d8bab1f"></p> 
 
 <i>(image: [Hays x MCFC Hackathon 2023](https://app.hayscodeco.com/events/hackathon/be474355-e892-4604-8db8-0c3019f6c59e))</i>
+<br>
+<br>
+<br>
 
+## Features
+<i>
+
+* Python
+* Machine Learning: (K-Means Clustering Algorithm)
+* Feature Engineering
+* Working with Different Data Files Formats: (CSV, XML, JSON)
+</i>

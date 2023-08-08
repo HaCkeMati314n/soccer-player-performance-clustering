@@ -15,7 +15,7 @@ I aim to conduct a <b>Cluster Analysis</b> using the <b>Supervised Machine Learn
 <i>(image: Hays x MCFC Hackathon 2023)</i>
 <br>
 
-## Features
+## <i>Features</i>
 <i>
 
 * Python

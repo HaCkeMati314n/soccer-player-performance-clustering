@@ -1,4 +1,5 @@
 # Soccer-Player Performance Clustering
+> [<i><b>Link to my notebook</b></i>](https://github.com/HaCkeMati314n/soccer-player-performance-clustering/blob/main/haysxmancity_hack.ipynb)<br>
 ## <i>Introduction</i>
 <i><b>(Deliver actionable match insights to coaching teams)</b></i><br>
 
